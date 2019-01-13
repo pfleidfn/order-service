@@ -1,0 +1,4 @@
+server.port: 0
+stubrunner:
+  ids: 'de.dibuco:debit-service:1.0.0-SNAPSHOT:stubs'
+  work-offline: true
